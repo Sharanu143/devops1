@@ -1,4 +1,4 @@
-hi this is my fist devops class 
+ my fist devops class in vi 
 code 
 codeing
 test
